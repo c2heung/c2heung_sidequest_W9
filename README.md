@@ -1,6 +1,6 @@
 ## Project Title
 
-GBDA302 Week 6 Side Quest: Ball and Slider game with sound and visual effects
+GBDA302 Week 9 Side Quest: Adding a Debug Screen
 
 ---
 
@@ -17,16 +17,20 @@ A simple paddle and ball game with sound and visual effects triggered by motion:
 - sound effects
 - colour changes
 
+Debug menu is at the bottom of the screen. Players are able to customize their gameplay:
+
+- ball speed
+- platform size
+- sound on/off
+
 ---
 
 ## Learning Goals
 
 Learning Goals:
 
-- Understand basic physics in an interactive game
-- Understand event-trigger programming
-- Integrating sound with visual cues
-- Designing interactive systems
+- Designing and implementing a debug screen/menu that fits the game's elements and goals.
+- Toggling
 
 ---
 
